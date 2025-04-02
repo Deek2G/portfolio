@@ -1,6 +1,6 @@
 # Web Developer
 
-#### Technical Skills: Java, HTML, CSS, JavaScript, PHP, Laravel
+#### Technical Skills: Java, HTML, CSS, JavaScript, PHP
 
 ## Education	        		
 - B.S., Computer Science | The University of Mindanao (_August 2022 to Present_)
