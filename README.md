@@ -1,9 +1,9 @@
-# Web Developer
+# Aspiring Web Developer
 
-#### Technical Skills: Java, HTML, CSS, JavaScript, PHP
+#### Technical Skills: HTML, CSS, JavaScript, PHP, Django (Python)
 
 ## Education	        		
-- B.S., Computer Science | The University of Mindanao (_August 2022 to Present_)
+- B.S. in Computer Science | The University of Mindanao (_August 2022 to Present_)
 
 ## Work Experience
 **Graphic Artist (Apprenticeship) @ Genesis Corporation (_July 2021 - January 2022_)**
@@ -11,6 +11,11 @@
 - Designing vector-based graphics such as logos, brochures, and product packaging with precision and creativity.
 
 ## Projects
-### Real Estate Property Listing Project with Laravel, MySQL, and Bootstrap
 
- I designed and developed a complete web platform using Laravel, MySQL, and Bootstrap. The project aimed to create a user-friendly system where property owners could list their properties, and buyers or renters could easily search and filter listings based on various criteria like location, price, and property type. I utilized Laravel's powerful framework to build a secure backend, MySQL for managing the database of properties and users, and Bootstrap to design a responsive and intuitive interface. The platform also included features like user authentication, a system for saving properties, and an admin dashboard for managing listings and user accounts. This project enhanced the real estate browsing experience by making it easy to list, search, and manage properties online.
+### PetroLog: Fuel Tracking App using Flutter, Dart, & Firebase
+
+I built PetroLog as a cross-platform mobile app using Flutter and Dart, designed to help users track their fuel consumption, mileage, and vehicle-related expenses. To ensure real-time data synchronization and secure cloud storage, I integrated Firebase services, including Firestore for database management and Firebase Authentication for user login and account security. The app features a clean, user-friendly interface, detailed fuel log entries, expense summaries, and visual insights to help users understand their driving habits and costs. It’s built to be scalable, reliable, and accessible from any device.
+
+### HealthyLife: Clinic Appointment Management System using Django Framework (Python)
+
+HealthyLife is a web-based clinic management system I built using the Django framework in Python. The system streamlines the appointment booking process for both patients and healthcare providers. It includes features such as user authentication, role-based access control, appointment scheduling, patient record management, and automated email notifications. I designed this system to improve clinic workflow efficiency, reduce manual errors, and provide a better experience for both patients and staff.
