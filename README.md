@@ -18,4 +18,4 @@ PetroLog is a cross-platform mobile app using Flutter and Dart, designed to help
 
 ### HealthyLife: Clinic Appointment Management System using Django Framework (Python)
 
-HealthyLife is a web-based clinic management system I built using the Django framework in Python. The system streamlines the appointment booking process for both patients and healthcare providers. It includes features such as user authentication, role-based access control, appointment scheduling, patient record management, and automated email notifications. I designed this system to improve clinic workflow efficiency, reduce manual errors, and provide a better experience for both patients and staff.
+HealthyLife is a web-based clinic management system built using the Django framework in Python. The system streamlines the appointment booking process for both patients and healthcare providers. It includes features such as user authentication, role-based access control, appointment scheduling, patient record management, and automated email notifications. I designed this system to improve clinic workflow efficiency, reduce manual errors, and provide a better experience for both patients and staff.
